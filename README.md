@@ -90,5 +90,3 @@ pip install -r requirements.txt
 
 ---
 
-## 🔗 Live Resources
-🌐 Live Dashboard :
