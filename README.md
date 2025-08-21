@@ -17,11 +17,17 @@ The system is built to streamline food donation tracking and reduce wastage.
 
 ## 📁 Project Structure
 Food-Wastage-Management-System/
-├── app.py                  # Main Streamlit app
-├── db.py                   # Database connection
-├── reports.py              # SQL query functions for reports
-├── requirements.txt        # Dependencies for the app                
-├── README.md               # This file
+├── Local_foodWASTAGE_System.sql      # SQL file
+├── README.md                         # This file
+├── app.py                            # Main Streamlit app
+├── claims_clean.csv                  # cleaned csv for clamis                        
+├── db.py                             # Database connection
+├── food_listings_clean.csv           # cleaned csv for food_listings
+├── providers_clean.csv               # cleaned csv for providers
+├── receivers_clean.csv               # cleaned csv for receivers
+├── reports.py                        # SQL query functions for reports
+├── requirements.txt                  # Dependencies for the app                
+                         
 
 
 ## 🚀 Pipeline Steps
